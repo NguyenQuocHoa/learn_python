@@ -10,6 +10,17 @@ class Employee:
     __employee_salary = None
     __employee_hours = None
 
+    # Function Name : __init__
+    # Note          : constructor
+    # Param         : self
+    # Param         : employee_name
+    # Param         : employee_age
+    # Param         : employee_address
+    # Param         : employee_salary
+    # Param         : employee_hours
+    # Return        : none
+    # Created       : 2024/01/29
+    # Modified      :
     def __init__(self, employee_name, employee_age, employee_address, employee_salary, employee_hours):
         self.__employee_name = employee_name
         self.__employee_age = employee_age
@@ -17,9 +28,21 @@ class Employee:
         self.__employee_salary = employee_salary
         self.__employee_hours = employee_hours
 
+    # Function Name : __init__
+    # Note          : constructor
+    # Param         : self
+    # Return        : none
+    # Created       : 2024/01/29
+    # Modified      :
     def __init__(self):
         pass
 
+    # Function Name : input_info
+    # Note          : input information of employee
+    # Param         : self
+    # Return        : none
+    # Created       : 2024/01/29
+    # Modified      :
     def input_info(self):
         self.__employee_name = input("Input employee name: ")
         self.__employee_age = int(input("Input employee age: "))
@@ -27,6 +50,12 @@ class Employee:
         self.__employee_salary = float(input("Input employee salary: "))
         self.__employee_hours = float(input("Input employee hours: "))
 
+    # Function Name : print_info
+    # Note          : print information of employee
+    # Param         : self
+    # Return        : none
+    # Created       : 2024/01/29
+    # Modified      :
     def print_info(self):
         print("==================> EMPLOYEE INFORMATION <==================")
         print("Employee name is     : {}".format(self.__employee_name))
@@ -36,6 +65,12 @@ class Employee:
         print("Employee hours is    : {}".format(self.__employee_hours))
         print("==================> EMPLOYEE INFORMATION <==================")
 
+    # Function Name : calc_bonus
+    # Note          : calculate bonus of employee
+    # Param         : self
+    # Return        : bonus
+    # Created       : 2024/01/29
+    # Modified      :
     def calc_bonus(self):
         bonus = 0
         if self.__employee_hours >= 200:

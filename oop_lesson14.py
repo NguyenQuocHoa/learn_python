@@ -1,11 +1,9 @@
 # https://v1study.com/python-bai-tap-bai-tap-phan-class.html
+import math
 # Class Name    : Point
 # Note          : Class point in flat 2D
 # Created       : 2024/01/29
 # Modified      :
-import math
-
-
 class Point:
     _position_x = 0
     _position_y = 0
@@ -30,6 +28,7 @@ class Point:
     # Modified      :
     def __str__(self):
         return "Position is({}, {})".format(self._position_x, self._position_y)
+
 
 # Class Name    : Ellipse
 # Note          : Class ellipse in flat 2D
@@ -70,6 +69,7 @@ class Ellipse(Point):
     def __str__(self):
         return ("Position is({}, {}) and width = {}, height = {}"
                 .format(self._position_x, self._position_y, self._width, self._height))
+
 
 # Class Name    : Ellipse
 # Note          : Class ellipse in flat 2D

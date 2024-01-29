@@ -1,6 +1,6 @@
 # https://blog.luyencode.net/1000-bai-tap-lap-trinh-c-cua-thay-khang/#de-bai-1000-bai-tap-lap-trinh-cua-thay-khang
 # Function Name : calc_number_over_10000
-# Name          : calculate index of sum over 10000
+# Note          : calculate index of sum over 10000
 # Param         : number
 # Return        : number_reversed
 # Created       : 2024/01/28

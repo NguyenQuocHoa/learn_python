@@ -1,7 +1,7 @@
 # https://blog.luyencode.net/1000-bai-tap-lap-trinh-c-cua-thay-khang/#de-bai-1000-bai-tap-lap-trinh-cua-thay-khang
 # Method 1:
 # Function Name : calc_number_reverse1
-# Name          : calculate number reverse
+# Note          : calculate number reverse
 # Param         : number
 # Return        : number_reversed
 # Created       : 2024/01/28
@@ -16,7 +16,7 @@ def calc_number_reverse1(number):
 
 # Method 2:
 # Function Name : calc_number_reverse2
-# Name          : calculate number reverse
+# Note          : calculate number reverse
 # Param         : number
 # Return        : number_reversed
 # Created       : 2024/01/28

@@ -1,7 +1,7 @@
 # https://blog.luyencode.net/1000-bai-tap-lap-trinh-c-cua-thay-khang/#de-bai-1000-bai-tap-lap-trinh-cua-thay-khang
 # Method 1:
 # Function Name : count_number_character1
-# Name          : calculate number of character
+# Note          : calculate number of character
 # Param         : number
 # Return        : count_character
 # Created       : 2024/01/28
@@ -15,7 +15,7 @@ def count_number_character1(number):
 
 # Method 2:
 # Function Name : count_number_character2
-# Name          : calculate number of character
+# Note          : calculate number of character
 # Param         : number
 # Return        : count_character
 # Created       : 2024/01/28

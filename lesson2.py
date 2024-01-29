@@ -1,6 +1,6 @@
 # source from: https://blog.luyencode.net/1000-bai-tap-lap-trinh-c-cua-thay-khang/#de-bai-1000-bai-tap-lap-trinh-cua-thay-khang
 # Function Name : calc_sum
-# Name          : calculate sum of number 1^2 + 2^2 + 3^2 + ... + n^2
+# Note          : calculate sum of number 1^2 + 2^2 + 3^2 + ... + n^2
 # Param         : number
 # Return        : sum
 # Created       : 2024/01/28

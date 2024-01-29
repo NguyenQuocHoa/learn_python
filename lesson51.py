@@ -1,7 +1,7 @@
 # https://blog.luyencode.net/1000-bai-tap-lap-trinh-c-cua-thay-khang/#de-bai-1000-bai-tap-lap-trinh-cua-thay-khang
 # Method 1:
 # Function Name : calc_character_maximum1
-# Name          : calculate character is maximum number
+# Note          : calculate character is maximum number
 # Param         : number
 # Return        : number_reversed
 # Created       : 2024/01/28
@@ -17,7 +17,7 @@ def calc_character_maximum1(number):
 
 # Method 2:
 # Function Name : calc_character_maximum2
-# Name          : calculate character is maximum number
+# Note          : calculate character is maximum number
 # Param         : number
 # Return        : number_reversed
 # Created       : 2024/01/28

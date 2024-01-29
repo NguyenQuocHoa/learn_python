@@ -1,7 +1,7 @@
 # https://blog.luyencode.net/1000-bai-tap-lap-trinh-c-cua-thay-khang/#de-bai-1000-bai-tap-lap-trinh-cua-thay-khang
 import math
 # Function Name : get_arr_prime
-# Name          : get array prime from 2 to number
+# Note          : get array prime from 2 to number
 # Param         : number
 # Return        : arr_prime
 # Created       : 2024/01/28
@@ -17,7 +17,7 @@ def get_arr_prime(number):
         return arr_prime
 
 # Function Name : check_number_prime
-# Name          : check number is prime
+# Note          : check number is prime
 # Param         : number
 # Return        : is_number_prime
 # Created       : 2024/01/28

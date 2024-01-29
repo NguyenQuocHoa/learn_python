@@ -1,6 +1,6 @@
 # source from: https://blog.luyencode.net/1000-bai-tap-lap-trinh-c-cua-thay-khang/#de-bai-1000-bai-tap-lap-trinh-cua-thay-khang
 # Function Name : calc_sum
-# Name          : calculate sum of number 1 + 2 + 3 + ... + n
+# Note          : calculate sum of number 1 + 2 + 3 + ... + n
 # Param         : number
 # Return        : sum
 # Created       : 2024/01/28
